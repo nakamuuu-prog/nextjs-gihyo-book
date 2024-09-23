@@ -12,5 +12,7 @@
 ---
 
 - npx create-next-app@latest --ts nextjs-gihyo-book
+- npm install styled-components
+- npm install --save-dev @types/styled-components
 
 ---
